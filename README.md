@@ -4,7 +4,7 @@
 
 ![Image Description](Image/Twitter.png)
 
-### Contributers
+### Contributors
 * Sean Evans
 * Jonnie Brown
 * Ansel Vallejo
