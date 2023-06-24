@@ -9,7 +9,7 @@
 * Jonnie Brown
 * Ansel Vallejo
 
-For an in depth analysis please review our [jupyter notebook](./Final_Logistic_Regression_Model_6.23.2023_-_SE.ipynb) and [presentation slides.](.presentation_deck.pdf)
+For an in depth analysis please review our [jupyter notebook](./Final_Logistic_Regression_Model_6.23.2023_-_SE.ipynb) and [presentation slides.](./presentation_deck.pdf)
 
 ## Business Understanding
 We were tasked with building a NLP model that can rate the sentiment of a tweet based on its contents. Our target audience is a team of business executives that wants to understand how to engage its customers and to provide a better experience with their products.
