@@ -2,8 +2,6 @@
 
 ![Image Description](Image/Twitter1.png)
 
-![Image Description](Image/Twitter.png)
-
 ### Contributors
 * Sean Evans
 * Jonnie Brown
@@ -48,3 +46,5 @@ And we also wanted to see the frequency of the words being used in both positive
 ![neg](https://github.com/SeanE09/NLP_Tweets/assets/116228715/907d317d-46f9-4a10-a836-217a65db7d82)
 
 We noticed links and mentions were prominent in positive sentiment along with "free" and "win". So we suggest having customers share the company's link to the product mentioning someone else as a friendly competition where the company gives something away for free. 
+
+![Image Description](Image/Twitter.png)
