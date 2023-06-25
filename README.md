@@ -19,5 +19,6 @@ To provide a better understanding of consumer sentiment thats extracted from the
 The data was transformed into a Binary Classification model, with classification labeled as Positive and Negative. The Positive classification insists the words extracted from the tweet were of positive meaning, whereas the Negative classification is intended for negative meaning. Below, you can see a pie chart that shows how the data is classified, by ratio.
 
 
+https://github.com/SeanE09/NLP_Tweets/blob/Ansel/Image/pie_chart_binary.png
 
 
