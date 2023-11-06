@@ -37,7 +37,7 @@ We first looked at the top 10 words that drove our model to predict if the tweet
 ![feature_analysis2](https://github.com/SeanE09/NLP_Tweets/assets/116228715/b3b46b0b-b3d5-4e4c-b995-da08da49dbc0)
 
 
-
-We found that links and mentions were more promenent in positive sentiment tweets along with the words "free" and "win". So we suggest having a booth for customers to demo a product. The company will pair these customers up into groups of two or more. After the demo the customer can recieve free "company swag" by writing a tweet about the experience and tagging their group partners in the tweet. We found a "sense of community" to be aligned with higher probability of a posative experience. This would allow people to meet new friends and join in on a comunity building experience with our companies product. For doing so the customers would also be entered into a raffle for a larger prize.   
+## Recommendation
+We found that links and mentions were more prominent in positive sentiment tweets along with the words "free" and "win". So we suggest having a booth for customers to demo a product. The company will pair these customers up into groups of two or more. After the demo the customer can receive free "company swag" by writing a tweet about the experience and tagging their group partners in the tweet. We found a "sense of community" to be aligned with a higher probability of a positive experience. This would allow people to meet new friends and join in on a community building experience with our companies product. For doing so the customers would also be entered into a raffle for a larger prize.  
 
 
