@@ -2,15 +2,10 @@
 
 ![Image Description](Image/Twitter1.png)
 
-### Contributors
-* Sean Evans
-* Jonnie Brown
-* Ansel Vallejo
 
-For an in depth analysis please review our [jupyter notebook](./Final_Logistic_Regression_Model_6.23.2023_-_SE.ipynb) and [presentation slides.](./presentation_deck.pdf)
 
 ## Business Understanding
-We were tasked with building a NLP model that can rate the sentiment of a tweet based on its contents. Our target audience is a team of business executives that wants to understand how to engage its customers and to provide a better experience with their products.
+Tasked with building a NLP model that can rate the sentiment of a tweet based on its contents. Our target audience is a team of business executives that wants to understand how to engage its customers and to provide a better experience with their products.
 
 ## Data Understanding
 The dataset comes from CrowdFlower via [data.world](https://data.world/crowdflower/brands-and-product-emotions) and contains over 9,000 tweets that were rated as positive, negative, neutral, or unknown. The tweets were generally about Apple and Google products.
@@ -41,10 +36,8 @@ We first looked at the top 10 words that drove our model to predict if the tweet
 ![feature_analysis1](https://github.com/SeanE09/NLP_Tweets/assets/116228715/6d3e04b5-0cb0-42ee-99a1-507c638de535)
 ![feature_analysis2](https://github.com/SeanE09/NLP_Tweets/assets/116228715/b3b46b0b-b3d5-4e4c-b995-da08da49dbc0)
 
-And we also wanted to see the frequency of the words being used in both positive and negative sentiments.
-![pos](https://github.com/SeanE09/NLP_Tweets/assets/116228715/8eefe0fb-d04a-4ea4-bce0-4ad61cbc24d0)
-![neg](https://github.com/SeanE09/NLP_Tweets/assets/116228715/907d317d-46f9-4a10-a836-217a65db7d82)
 
-We noticed links and mentions were prominent in positive sentiment along with "free" and "win". So we suggest having customers share the company's link to the product mentioning someone else as a friendly competition where the company gives something away for free. 
 
-![Image Description](Image/Twitter.png)
+We found that links and mentions were more promenent in positive sentiment tweets along with the words "free" and "win". So we suggest having a booth for customers to demo a product. The company will pair these customers up into groups of two or more. After the demo the customer can recieve free "company swag" by writing a tweet about the experience and tagging their group partners in the tweet. We found a "sense of community" to be aligned with higher probability of a posative experience. This would allow people to meet new friends and join in on a comunity building experience with our companies product. For doing so the customers would also be entered into a raffle for a larger prize.   
+
+
