@@ -1,7 +1,5 @@
 # Tweet Sentiment Using Natural Language Processing (NLP)
 
-![Image Description](Image/Twitter1.png)
-
 
 
 ## Business Understanding
